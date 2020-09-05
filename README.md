@@ -1,4 +1,7 @@
-# Basic Go from Docker
+# go-start-docker
+
+Basic Go from Docker.
+Minimal docker go execution environment.
 
 ## set up
 
@@ -20,4 +23,7 @@ $ docker-compose exec app /bin/bash
 
 # run
 $ docker-compose exec app go run main.go
+
+# down
+$ docker-compose down
 ```
