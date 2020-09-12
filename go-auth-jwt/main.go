@@ -6,7 +6,7 @@ import (
 	"log"
 	"net/http"
 
-	auth "github.com/examples/go-auth-jwt/src"
+	auth "github.com/go-auth-jwt/src"
 	"github.com/joho/godotenv"
 )
 
